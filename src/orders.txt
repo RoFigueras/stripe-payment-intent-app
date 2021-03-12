@@ -1,0 +1,8 @@
+This file will receive all orders from webhook.
+
+New order received! Charge ID: ch_1IU2lIF4vqAzC1D3WuQag4ED, total amount: $20.
+New order received! Charge ID: ch_1IU2lRF4vqAzC1D3eKbTZKOC, total amount: $20.
+New order received! Charge ID: ch_1IU2lhF4vqAzC1D32YQZXYQ6, total amount: $12.
+New order received! Charge ID: ch_1IU2o3F4vqAzC1D3Or4BC7yF, total amount: $20.
+New order received! Charge ID: ch_1IU2t4F4vqAzC1D3tWDZOW6V, total amount: $12.
+New order received! Charge ID: ch_1IU2tDF4vqAzC1D3zjWF0ToG, total amount: $20.
